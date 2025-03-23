@@ -1,1 +1,2 @@
 https://pennylane.ai/qml/demos/tutorial_adversarial_attacks_QML#wendlinger
+https://arxiv.org/pdf/2404.16154
